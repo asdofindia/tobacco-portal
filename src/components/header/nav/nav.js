@@ -6,7 +6,7 @@ const Nav = () => (
   <Container>
     <ul>
       <li>
-        <a href="/questions">Questions</a>
+        <a href="http://questions.tobacco.free.gen.in">Questions</a>
       </li>
     </ul>
   </Container>
